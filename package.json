@@ -1,0 +1,29 @@
+{
+  "name": "route_param",
+  "version": "1.0.0",
+  "description": "Handling route parameters in Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larsswenson/320-route-param.git"
+  },
+  "keywords": [
+    "route",
+    "parameters",
+    "express"
+  ],
+  "author": "Lars Swenson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/larsswenson/320-route-param/issues"
+  },
+  "homepage": "https://github.com/larsswenson/320-route-param#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
